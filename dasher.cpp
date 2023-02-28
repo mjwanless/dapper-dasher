@@ -69,8 +69,6 @@ int main()
 
       // Stop Drawing
       EndDrawing();
-
-      // Test comment for VCS github integration
    }
 
    UnloadTexture(scarfy);
