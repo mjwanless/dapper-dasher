@@ -13,6 +13,9 @@ int main()
    // Acceleration fue to gravity (pixels/s)/s
    const int gravity{1'000};
 
+   // Nebula variables
+
+   // Scarfy variables
    Texture2D scarfy = LoadTexture("textures/scarfy.png");
    Rectangle scarfyRec;
    scarfyRec.width = (scarfy.width / 6);
